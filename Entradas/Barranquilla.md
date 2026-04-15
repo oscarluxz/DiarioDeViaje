@@ -6,3 +6,5 @@ Barranquilla, es la capital del departamento Atlántico de Colombia y es un desb
 2. ir a su fantastica playa puerto mocho
 3. conocer la rueda de la rueda gigante (luna de el rio)
 4. conocer el monumento la ventana de el mundo
+## Imagen
+![barranquilla](https://miredvista.co/wp-content/uploads/2025/12/lunerita-1011x570.jpg)
